@@ -1,0 +1,5 @@
+a=(input('string:'))
+d=a.encode('utf-16')
+print(d)
+e=d.decode('utf-16')
+print(e)
